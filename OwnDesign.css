@@ -11,7 +11,7 @@ body {
   width: 100%;
   height: 100vh;
   background-color: #edfaef;
-  background-image: url("../Images//OwnImage1.jpg");
+  background-image: url("./Images//OwnImage1.jpg");
   background-repeat: no-repeat;
   background-size: 100em;
   background-attachment: fixed;
@@ -108,7 +108,7 @@ p {
   width: 100%;
   height: 100vh;
   background-color: #edfaef;
-  background-image: url("../Images//Transparent.png");
+  background-image: url("./Images//Transparent.png");
   background-repeat: no-repeat;
   background-size: 100em;
   background-attachment: fixed;
@@ -117,7 +117,7 @@ p {
   width: 100%;
   height: 100vh;
   background-color: #edfaef;
-  background-image: url("../Images//Transparent.png");
+  background-image: url("./Images//Transparent.png");
   background-repeat: no-repeat;
   background-size: 100em;
   background-attachment: fixed;
@@ -181,7 +181,7 @@ li{
   width: 100%;
   height: 100vh;
   background-color: #edfaef;
-  background-image: url("../Images//Transparent.png");
+  background-image: url("./Images//Transparent.png");
   background-repeat: no-repeat;
   background-size: 100em;
   background-attachment: fixed;
